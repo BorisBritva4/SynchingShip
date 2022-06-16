@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/Lbm.dir/main.c.o CMakeFiles/Lbm.dir/lbm.c.o  -o Lbm  -lm 

@@ -1,0 +1,3 @@
+/home/boris/Desktop/bench/505.mcf_r/src/CMakeFiles/rebuild_cache.dir
+/home/boris/Desktop/bench/505.mcf_r/src/CMakeFiles/edit_cache.dir
+/home/boris/Desktop/bench/505.mcf_r/src/CMakeFiles/Mcf.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/test666.dir/main.c.o CMakeFiles/test666.dir/specrand.c.o  -o test666 

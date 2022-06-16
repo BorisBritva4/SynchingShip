@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/Specrand.dir/main.c.o CMakeFiles/Specrand.dir/specrand.c.o  -o Specrand 

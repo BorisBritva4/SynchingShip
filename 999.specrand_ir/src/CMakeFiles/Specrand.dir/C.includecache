@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/boris/Desktop/bench/999.specrand_ir/src/main.c
+stdio.h
+-
+stdlib.h
+-
+specrand.h
+/home/boris/Desktop/bench/999.specrand_ir/src/specrand.h
+
+/home/boris/Desktop/bench/999.specrand_ir/src/specrand.c
+stdio.h
+-
+specrand.h
+/home/boris/Desktop/bench/999.specrand_ir/src/specrand.h
+
+/home/boris/Desktop/bench/999.specrand_ir/src/specrand.h
+
